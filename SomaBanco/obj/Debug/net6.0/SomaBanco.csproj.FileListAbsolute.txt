@@ -1,0 +1,15 @@
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\bin\Debug\net6.0\SomaBanco.exe
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\bin\Debug\net6.0\SomaBanco.deps.json
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\bin\Debug\net6.0\SomaBanco.runtimeconfig.json
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\bin\Debug\net6.0\SomaBanco.dll
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\bin\Debug\net6.0\SomaBanco.pdb
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.csproj.AssemblyReference.cache
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.AssemblyInfoInputs.cache
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.AssemblyInfo.cs
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.dll
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\refint\SomaBanco.dll
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.pdb
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\SomaBanco.genruntimeconfig.cache
+C:\Users\Tsuiya\source\repos\SomaBanco\SomaBanco\obj\Debug\net6.0\ref\SomaBanco.dll
